@@ -52,7 +52,7 @@
     border: 5px solid #EBE76C;
     border-radius: 15px;
     margin: 10px; /* Add margins on the left and right sides */
-    width: calc(20% - 20px); /* Adjust width to maintain original size with margins */
+    width: calc(30% - 20px); /* Adjust width to maintain original size with margins */
 }
 
    
