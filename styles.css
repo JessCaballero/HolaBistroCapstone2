@@ -59,6 +59,7 @@
     display: flex; /* Use flexbox instead of grid if you want to center elements */
     justify-content: center;
     align-items: center;
+     margin: 10px;
     /* Add any other necessary styles */
 }  
 
