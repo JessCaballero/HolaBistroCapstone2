@@ -48,11 +48,11 @@
 
 .card-cover {
     background-image: url(./Pics/malteada.jpg);
-    background-size: cover; /* Adjust as needed */
+    background-size: cover;
     border: 5px solid #EBE76C;
-    border-radius: 15px; /* Adjust border radius as needed */
+    border-radius: 15px;
+    margin: 0 10px; /* Add margins on the left and right sides */
 }
-
 
    
  .containerfood {
