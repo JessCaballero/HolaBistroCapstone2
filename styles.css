@@ -51,7 +51,8 @@
     background-size: cover;
     border: 5px solid #EBE76C;
     border-radius: 15px;
-    margin: 0 10px; /* Add margins on the left and right sides */
+    margin: 10px; /* Add margins on the left and right sides */
+    width: calc(100% - 10px * 2 - 5px * 2); /* Adjust width to account for margins and borders */
 }
 
    
